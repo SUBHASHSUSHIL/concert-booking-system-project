@@ -19,7 +19,7 @@ The **Concert Booking System** is a web-based application developed using **ASP.
 - **Database**: MS SQL Server
 - **Frontend**: Razor Views, Bootstrap
 - **Authentication**: JWT & Identity Framework
-- **Payments**: (Optional - Stripe, Razorpay, PayPal)
+<!-- **Payments**: (Optional - Stripe, Razorpay, PayPal)-->
 
 ## Installation & Setup
 1. Clone the repository:
